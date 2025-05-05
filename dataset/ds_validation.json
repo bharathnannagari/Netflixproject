@@ -10,7 +10,8 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileSystem": "silver"
+				"fileName": "netflix_titles.csv",
+				"fileSystem": "validation"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
